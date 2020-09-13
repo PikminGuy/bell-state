@@ -12,4 +12,4 @@ Requirements:
 Compare the results for different numbers of measurements: 1, 10, 100, 1000.
 
 Bonus question:
-How to make sure you produce state |01> + |10> and not |01> - |10> ?
+How to make sure you produce state  |01⟩  +  |10⟩  and not any other combination of |01> + e(i*phi)|10⟩ (for example |01⟩  -  |10⟩)?
